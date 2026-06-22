@@ -1,8 +1,6 @@
 FastAPI Athentication POC
 
-changes from branch.
-
-Instation & git commands:
+Installation & git commands:
 
 ```commandline
    1 pip install -r requairment.txt
