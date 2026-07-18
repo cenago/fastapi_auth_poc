@@ -10,3 +10,8 @@ Installation & git commands:
    5 git push --set-upstream origin hello_world
 
 ```
+
+```commandline
+uvicorn main:app --reload
+
+```
